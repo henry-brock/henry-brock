@@ -3,7 +3,7 @@
 **MSc Computer Science graduate · Software Engineering · Scientific Computing**
 Yorkshire, United Kingdom
 
-[Portfolio](https://henrybrock.dev) · [Résumé](https://henrybrock.dev/Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/henry-brock) · [Email](mailto:hello@henrybrock.dev)
+[Portfolio](https://henrybrock.dev) · [Résumé](https://henrybrock.dev/Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/henry-brock)
 
 ## About me
 
